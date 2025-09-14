@@ -1,0 +1,6 @@
+html,body{margin:0;height:100%;overflow:hidden;font-family:system-ui,Segoe UI,Roboto,Arial}
+#ui{position:absolute;left:8px;top:8px;z-index:20}
+#topbar{background:rgba(255,255,255,0.9);padding:6px;border-radius:6px;display:flex;gap:8px;align-items:center}
+#status{font-size:12px;color:#333}
+button{padding:6px 8px}
+select{padding:4px}
